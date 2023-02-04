@@ -9,8 +9,8 @@ namespace AtividadeEncontroRemoto02BackEnd
 {
     public abstract class Pessoa
     {
-        public string Nome { get; set; }
-        public Endereco Endereco { get; set; }
+        public string? Nome { get; set; }
+        public Endereco? Endereco { get; set; }
         public bool EnderecoComercial { get; set; }
 
         public abstract void PagarImposto(float salario);

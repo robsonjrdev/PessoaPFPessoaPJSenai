@@ -28,13 +28,19 @@
             PJ.Nome = "Islana Silva";
             PJ.Endereco = Endereco;
             PJ.IdPessoaJuridica = null;
-            PJ.CNPJ = "000000000000000";
+            PJ.CNPJ = "00000000000001";
             PJ.RazaoSocial = "Nome da Empresa";
 
             var validarDataNascimento = PF.VerificarDataNascimento(PF.DataNascimento);
 
             if (validarDataNascimento) {
                 Console.WriteLine("ok");
+            }
+
+            if (PJ.ValidarCNPJ(PJ.CNPJ)) {
+                Console.WriteLine("CNPJ Válido");
+            } else {
+                Console.WriteLine("CNPJ Inválido");
             }
 
         }

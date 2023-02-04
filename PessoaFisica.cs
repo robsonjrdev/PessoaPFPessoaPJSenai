@@ -9,7 +9,7 @@ namespace AtividadeEncontroRemoto02BackEnd
     public class PessoaFisica : Pessoa
     {
         public int? IdPessoalFisica { get; set; }
-        public string CPF { get; set; }
+        public string? CPF { get; set; }
         public DateTime DataNascimento { get; set; }
         
         public override void PagarImposto(float salario)
