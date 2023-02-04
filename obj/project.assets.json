@@ -8,31 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Robson Junior\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\yn719471\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\PessoaPFPessoaPJSenai\\AtividadeEncontroRemoto02BackEnd.csproj",
-      "projectName": "AtividadeEncontroRemoto02BackEnd",
-      "projectPath": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\PessoaPFPessoaPJSenai\\AtividadeEncontroRemoto02BackEnd.csproj",
-      "packagesPath": "C:\\Users\\Robson Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\PessoaPFPessoaPJSenai\\obj\\",
+      "projectUniqueName": "C:\\Teste\\Teste.csproj",
+      "projectName": "Teste",
+      "projectPath": "C:\\Teste\\Teste.csproj",
+      "packagesPath": "C:\\Users\\yn719471\\.nuget\\packages\\",
+      "outputPath": "C:\\Teste\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Robson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\yn719471\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
