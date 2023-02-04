@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\AtividadeEncontroRemoto02BackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\PessoaPFPessoaPJSenai\\AtividadeEncontroRemoto02BackEnd.csproj",
       "projectName": "AtividadeEncontroRemoto02BackEnd",
-      "projectPath": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\AtividadeEncontroRemoto02BackEnd.csproj",
+      "projectPath": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\PessoaPFPessoaPJSenai\\AtividadeEncontroRemoto02BackEnd.csproj",
       "packagesPath": "C:\\Users\\Robson Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\obj\\",
+      "outputPath": "C:\\Users\\Robson Junior\\OneDrive\\Documentos\\GitHub\\AtividadeEncontroRemoto02BackEnd\\PessoaPFPessoaPJSenai\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

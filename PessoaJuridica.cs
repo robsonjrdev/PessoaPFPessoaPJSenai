@@ -12,5 +12,9 @@ namespace AtividadeEncontroRemoto02BackEnd
         public string CNPJ { get; set; }
         public string RazaoSocial { get; set; }
 
+        public override void PagarImposto(float salario)
+        {
+
+        }
     }
 }
